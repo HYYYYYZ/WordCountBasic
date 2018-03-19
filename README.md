@@ -1,0 +1,2 @@
+# WordCountBasic
+SimpleFunctionsofWordCount
